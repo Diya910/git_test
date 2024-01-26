@@ -1,2 +1,2 @@
 # git_test
-for web development
+for learning web development from theodin project..
